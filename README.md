@@ -7,10 +7,10 @@ The project is performed using `Jupyter Notebook` and `Tableau`.
 I am analysing various datasets regarding Road Accidents of India gathered from [Open Government Data Platform](https://data.gov.in/dataset-group-name/road-accidents). 
 
 ## Python Libraries Used : <a id = 'lib'></a>
-- Pandas
-- Numpy
-- Seaborn
-- Matplotlib 
+`- Pandas`
+`- Numpy`
+`- Seaborn`
+`- Matplotlib`
 
 ## Analysis :
 
